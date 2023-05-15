@@ -1,0 +1,258 @@
+{
+    "meta": { "code": 200, "requestId": "64597f955e10dc1c5ff0a701" },
+    "notifications": [
+      { "type": "notificationTray", "item": { "unreadCount": 0 } }
+    ],
+    "response": {
+      "queryRefinements": {
+        "target": {
+          "type": "path",
+          "url": "/venue/explore",
+          "params": { "ll": "40.712800,74.006000", "radius": "10000" }
+        },
+        "refinements": [
+          { "query": "Food" },
+          { "query": "Nightlife" },
+          { "query": "Coffee" },
+          { "query": "Shops" },
+          { "query": "Arts" },
+          { "query": "Outdoors" }
+        ]
+      },
+      "warning": {
+        "text": "There aren't a lot of results near you. Try something more general, reset your filters, or expand the search area."
+      },
+      "suggestedRadius": 30000,
+      "headerLocation": "Current map view",
+      "headerFullLocation": "Current map view",
+      "headerLocationGranularity": "unknown",
+      "totalResults": 3,
+      "suggestedBounds": {
+        "ne": { "lat": 40.906565525, "lng": 74.257372695 },
+        "sw": { "lat": 40.722105975, "lng": 73.85442740499998 }
+      },
+      "groups": [
+        {
+          "type": "Recommended Places",
+          "name": "recommended",
+          "items": [
+            {
+              "reasons": {
+                "count": 0,
+                "items": [
+                  {
+                    "summary": "This spot is popular",
+                    "pluralSummary": "These spots are popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                  }
+                ]
+              },
+              "venue": {
+                "id": "53fca998498eb67612d45a58",
+                "name": "Kara Shoro",
+                "contact": {},
+                "location": {
+                  "lat": 40.755061,
+                  "lng": 74.125691,
+                  "labeledLatLngs": [
+                    { "label": "display", "lat": 40.755061, "lng": 74.125691 }
+                  ],
+                  "distance": 11138,
+                  "cc": "KG",
+                  "country": "Kyrgyzstan",
+                  "contextLine": "",
+                  "contextGeoId": 9151314444787114958,
+                  "formattedAddress": ["", "Kyrgyzstan"]
+                },
+                "canonicalUrl": "https://foursquare.com/v/kara-shoro/53fca998498eb67612d45a58",
+                "canonicalPath": "/v/kara-shoro/53fca998498eb67612d45a58",
+                "categories": [
+                  {
+                    "id": "52e81612bcbc57f1066b7a21",
+                    "name": "National Park",
+                    "pluralName": "National Parks",
+                    "shortName": "National Park",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                      "mapPrefix": "https://ss3.4sqi.net/img/categories_map/parks_outdoors/hikingtrail",
+                      "suffix": ".png"
+                    },
+                    "primary": true
+                  }
+                ],
+                "verified": false,
+                "stats": { "tipCount": 0, "usersCount": 0, "checkinsCount": 0 },
+                "beenHere": {
+                  "count": 0,
+                  "marked": false,
+                  "lastCheckinExpiredAt": 0
+                },
+                "photos": { "count": 0, "groups": [] },
+                "createdAt": 1409067416,
+                "hereNow": { "count": 0, "summary": "Nobody here", "groups": [] },
+                "popularityByGeo": 0.745629368296453
+              },
+              "referralId": "e-0-53fca998498eb67612d45a58-0"
+            },
+            {
+              "reasons": {
+                "count": 0,
+                "items": [
+                  {
+                    "summary": "This spot is popular",
+                    "pluralSummary": "These spots are popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                  }
+                ]
+              },
+              "venue": {
+                "id": "546fa0ec498e0f8f51b016b9",
+                "name": "C-Town Supermarkets",
+                "contact": {
+                  "phone": "718-520-0679",
+                  "formattedPhone": "718-520-0679",
+                  "twitter": "ctownmarkets",
+                  "facebook": "202391076451240",
+                  "facebookUsername": "Ctown.supermarkets",
+                  "facebookName": "CTown Supermarkets"
+                },
+                "location": {
+                  "address": "94-06 63rd Drive",
+                  "lat": 40.7304905,
+                  "lng": 73.8727431,
+                  "labeledLatLngs": [
+                    { "label": "display", "lat": 40.7304905, "lng": 73.8727431 }
+                  ],
+                  "distance": 11413,
+                  "cc": "KG",
+                  "city": "Rego Park",
+                  "state": "NY",
+                  "country": "Kyrgyzstan",
+                  "contextLine": "Rego Park",
+                  "contextGeoId": -413171593,
+                  "formattedAddress": [
+                    "<span itemprop=\"addressLocality\">Rego Park</span>",
+                    "<span itemprop=\"streetAddress\">94-06 63rd Drive</span>",
+                    "Kyrgyzstan"
+                  ]
+                },
+                "canonicalUrl": "https://foursquare.com/v/ctown-supermarkets/546fa0ec498e0f8f51b016b9",
+                "canonicalPath": "/v/ctown-supermarkets/546fa0ec498e0f8f51b016b9",
+                "categories": [
+                  {
+                    "id": "4bf58dd8d48988d118951735",
+                    "name": "Grocery Store",
+                    "pluralName": "Grocery Stores",
+                    "shortName": "Grocery Store",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                      "mapPrefix": "https://ss3.4sqi.net/img/categories_map/shops/food_grocery",
+                      "suffix": ".png"
+                    },
+                    "primary": true
+                  }
+                ],
+                "verified": true,
+                "stats": { "tipCount": 0, "usersCount": 0, "checkinsCount": 0 },
+                "url": "http://location.ctownsupermarkets.com/ny/rego-park/41-006/",
+                "urlSig": "H9SPYbNpjmIvdKXtdBk4JN2iExI=",
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                  "count": 0,
+                  "marked": false,
+                  "lastCheckinExpiredAt": 0
+                },
+                "hours": {
+                  "status": "Closed until 7:00 AM",
+                  "richStatus": {
+                    "entities": [],
+                    "text": "Closed until 7:00 AM"
+                  },
+                  "isOpen": false,
+                  "isLocalHoliday": false
+                },
+                "photos": { "count": 0, "groups": [] },
+                "storeId": "41-006",
+                "createdAt": 1416601836,
+                "hereNow": { "count": 0, "summary": "Nobody here", "groups": [] },
+                "popularityByGeo": 0.8408374167824042
+              },
+              "referralId": "e-0-546fa0ec498e0f8f51b016b9-1"
+            },
+            {
+              "reasons": {
+                "count": 0,
+                "items": [
+                  {
+                    "summary": "This spot is popular",
+                    "pluralSummary": "These spots are popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                  }
+                ]
+              },
+              "venue": {
+                "id": "55f7e882498eba2fedfb6c9c",
+                "name": "Коммуникация Факультети / Студия",
+                "contact": {},
+                "location": {
+                  "lat": 40.898181,
+                  "lng": 74.239057,
+                  "labeledLatLngs": [
+                    { "label": "display", "lat": 40.898181, "lng": 74.239057 }
+                  ],
+                  "distance": 28486,
+                  "cc": "KG",
+                  "country": "Kyrgyzstan",
+                  "contextLine": "",
+                  "contextGeoId": 9151314443473897807,
+                  "formattedAddress": ["", "Kyrgyzstan"]
+                },
+                "canonicalUrl": "https://foursquare.com/v/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82%D0%B8--%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F/55f7e882498eba2fedfb6c9c",
+                "canonicalPath": "/v/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82%D0%B8--%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F/55f7e882498eba2fedfb6c9c",
+                "categories": [
+                  {
+                    "id": "4bf58dd8d48988d1e2931735",
+                    "name": "Art Gallery",
+                    "pluralName": "Art Galleries",
+                    "shortName": "Art Gallery",
+                    "icon": {
+                      "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                      "mapPrefix": "https://ss3.4sqi.net/img/categories_map/arts_entertainment/artgallery",
+                      "suffix": ".png"
+                    },
+                    "primary": true
+                  }
+                ],
+                "verified": false,
+                "stats": { "tipCount": 0, "usersCount": 0, "checkinsCount": 0 },
+                "allowMenuUrlEdit": true,
+                "beenHere": {
+                  "count": 0,
+                  "marked": false,
+                  "lastCheckinExpiredAt": 0
+                },
+                "photos": { "count": 0, "groups": [] },
+                "createdAt": 1442310274,
+                "hereNow": { "count": 0, "summary": "Nobody here", "groups": [] },
+                "popularityByGeo": 0.3518209558479257
+              },
+              "photo": {
+                "id": "55f7e898498eaf6071935b8f",
+                "createdAt": 1442310296,
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/70349297_QrMITQ2yPmTckbW_RgiyYRGMjZGLgHrqk1JGgcIXXBQ.jpg",
+                "width": 1440,
+                "height": 1920,
+                "visibility": "public"
+              },
+              "referralId": "e-0-55f7e882498eba2fedfb6c9c-2"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

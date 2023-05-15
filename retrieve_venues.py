@@ -7,7 +7,8 @@ import os
 import json
 from sqlmodel import Session
 
-# As the v2 version is deprecated, I am not able to retrieve data using foursquare API
+# As the v2 version is deprecated, I am not able to retrieve data using foursquare API but I am emplementing  
+# this class which help to manage API
 class FoursquareAPIManagement:
     def __init__(self, url, client_id, client_secret, version):
         self.url = url
